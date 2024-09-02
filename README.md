@@ -35,8 +35,11 @@
 - **Languages**:
     
     ![PHP](https://img.shields.io/badge/php%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JS](https://img.shields.io/badge/js%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![HTML](https://img.shields.io/badge/html%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![CSS](https://img.shields.io/badge/css%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C#](https://img.shields.io/badge/c#%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 <br>   
     
