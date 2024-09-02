@@ -14,7 +14,7 @@
 	
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-- **About Me**:
+- <h4>About Me</h4>
 <br>
 
 - A dedicated and skilled Full Stack Developer with experience in building responsive and user-friendly websites.
